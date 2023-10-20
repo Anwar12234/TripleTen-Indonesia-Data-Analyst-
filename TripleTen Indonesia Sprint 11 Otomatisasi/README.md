@@ -10,7 +10,7 @@ This project focuses on analyzing YouTube's trending video history with the aim 
 **Data Update Frequency**: Every 24 hours, scheduled for midnight UTC.
 
 ## Dashboard
-[[Link to Dashboard](https://public.tableau.com/app/profile/muhammad.anwar3869/viz/TrendingVideosonYoutube_16944049367490/Dash_trend_vid?publish=yes)](#)
+[[Link to Dashboard](https://public.tableau.com/app/profile/muhammad.anwar3869/viz/TrendingVideosonYoutube_16944049367490/Dash_trend_vid?publish=yes)]
 
 ### Dashboard Content
 The dashboard presents the following key data:
